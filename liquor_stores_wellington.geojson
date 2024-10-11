@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 298578488, "name": "The Cellar Room" }, "geometry": { "type": "Point", "coordinates": [ 174.7636143, -41.3054146 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 1116347011, "name": "Regional Wines and Spirits" }, "geometry": { "type": "Point", "coordinates": [ 174.782077, -41.2997691 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 1237961824, "name": "Liquorland" }, "geometry": { "type": "Point", "coordinates": [ 174.8151018, -41.3153154 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 1793947848, "name": "Discount Liquor Centre" }, "geometry": { "type": "Point", "coordinates": [ 174.7747028, -41.2910248 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 1933112463, "name": "nan" }, "geometry": { "type": "Point", "coordinates": [ 174.7818792, -41.3136797 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 2577628991, "name": "Garage Project" }, "geometry": { "type": "Point", "coordinates": [ 174.7679058, -41.2951635 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 2581960427, "name": "Liquorland" }, "geometry": { "type": "Point", "coordinates": [ 174.7724174, -41.2954501 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 2626504642, "name": "Cuba Liquor World" }, "geometry": { "type": "Point", "coordinates": [ 174.7757502, -41.2934751 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 2967030816, "name": "Glengarry Wines" }, "geometry": { "type": "Point", "coordinates": [ 174.76240580000001, -41.2893833 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 6064972586, "name": "Super Liquor" }, "geometry": { "type": "Point", "coordinates": [ 174.7372096, -41.2843594 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 6856370255, "name": "Thirsty Liquor" }, "geometry": { "type": "Point", "coordinates": [ 174.77322, -41.3343986 ] } },
+{ "type": "Feature", "properties": { "element_type": "node", "osmid": 12082128603, "name": "The Bottle-O Miramar" }, "geometry": { "type": "Point", "coordinates": [ 174.8256916, -41.3070523 ] } },
+{ "type": "Feature", "properties": { "element_type": "way", "osmid": 396336896, "name": "The Bottle-O" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.825637, -41.1771776 ], [ 174.8256609, -41.1770716 ], [ 174.8257337, -41.1770809 ], [ 174.825759299999987, -41.1769668 ], [ 174.8258491, -41.1769782 ], [ 174.8258003, -41.1771954 ], [ 174.825783300000012, -41.1771963 ], [ 174.825637, -41.1771776 ] ] ] } },
+{ "type": "Feature", "properties": { "element_type": "way", "osmid": 1155390697, "name": "JK Liquor" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 174.7991008, -41.2281418 ], [ 174.7992042, -41.2280972 ], [ 174.799224900000013, -41.2281244 ], [ 174.799121500000012, -41.228169 ], [ 174.7991008, -41.2281418 ] ] ] } }
+]
+}
